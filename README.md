@@ -19,11 +19,14 @@ This process here should be able to guide you on how to contribute effectively t
 - Create a branch, the branch name should at least be meaningfull e.g if you're working on the footer, your branch name would be;
 ```use git command line
     git checkout -b footer
+
 ```
 - Make your changes, add them and make your commits
 ```use git command line 
     git commit -m "your message"
 ```
+
+
 - Push your codes to the remote upstream repository
 ```use git command line
     git push -u origin master
